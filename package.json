@@ -72,6 +72,9 @@
   "ember": {
     "edition": "octane"
   },
+  "fastbootDependencies": [
+    "fetch"
+  ],
   "dependencies": {
     "fastboot-app-server": "^3.0.0"
   }
